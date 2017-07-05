@@ -6,6 +6,7 @@ clone
 setup configurations
 fetch
 pull
+create a new branch
 add
 commit
 push
